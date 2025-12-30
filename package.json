@@ -48,6 +48,8 @@
   "dependencies": {
     "b4a": "^1.5.0",
     "bare-events": "^2.2.0",
+    "bare-make": "^1.6.3",
+    "bare-runtime": "^1.24.2",
     "require-addon": "^1.1.0",
     "streamx": "^2.22.0"
   },
